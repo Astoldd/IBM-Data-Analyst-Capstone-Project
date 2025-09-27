@@ -1,2 +1,2 @@
-# IBM-Data-Analyst-Capstone-Project
-IBM Data Analyst Capstone Project
+# IBM Data Analyst Capstone Project
+Coursera IBM Data Analyst Capstone Project
